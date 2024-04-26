@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sameen-k-a.sameen-k-a&left_color=black&right_color=gold&left_text=Profile%780views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sameen-k-a.sameen-k-a&left_color=black&right_color=gold&left_text=Profile%20views"  />
 </div>
 
 ###
 
 <h6 align="left">I'm a self-taught developer diving into the world of web development, I've been honing my skills in the MERN stack.<br>Currently, I'm dedicated to mastering fundamental concepts in data structures and algorithms,.<br>Follow along on my GitHub journey as I explore, learn, and grow in my coding journey.
-<br>reach me at <a>sameensameen60@gmail.com</a></h6>
+<br>reach me at </h6>**sameensameen60@gmail.com**
 
 ###
 
