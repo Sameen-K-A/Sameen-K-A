@@ -8,7 +8,8 @@
 
 ###
 
-<h6 align="left">I'm a self-taught developer diving into the world of web development, I've been honing my skills in the MERN stack.<br>Currently, I'm dedicated to mastering fundamental concepts in data structures and algorithms,.<br>🔍 Follow along on my GitHub journey as I explore, learn, and grow in my coding journey.</h6>
+<h6 align="left">I'm a self-taught developer diving into the world of web development, I've been honing my skills in the MERN stack.<br>Currently, I'm dedicated to mastering fundamental concepts in data structures and algorithms,.<br>Follow along on my GitHub journey as I explore, learn, and grow in my coding journey.</h6>
+<br>reach me at sameensameen60@gmail.com</h6>
 
 ###
 
@@ -58,10 +59,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sameen-k-a-5090b9294/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="sameensameen60@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin     logo"  />
   </a>
 </div>
 
