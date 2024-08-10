@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm a self-taught developer diving into the world of web development, I've been honing my skills in the MERN stack.<br>Currently, I'm dedicated to mastering fundamental concepts in data structures and algorithms,.<br>Follow along on my GitHub journey as I explore, learn, and grow in my coding journey.
+<h6 align="left">I'm a self-taught developer diving into the world of web development, honing my skills in the MERN stack. <br>Currently, I'm focused on my new project "Instant-Fix," which I'm building from scratch, including designing in Figma, creating API documentation in POSTMAN, designing the database, and developing the application using the MERN stack.<br> Follow along on my GitHub journey as I explore, learn, and grow in my coding adventure.
 <br><br>reach me at sameensameen60@gmail.com</h6>
 
 ###
